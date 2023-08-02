@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+    font-family: 'EB Garamond', serif;
+    padding: 0;
+    margin: 0;
+    border-color: #fff;
+    color: #111;
+    font-size: 14px;
+    text-align: left;
+}
+
+.header {
+    height: 50px;
+    border-bottom: solid 1px grey;
+    width: 850px;
+    margin-left: 500px;
+}
+
+.name>a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.top_header {
+    border-bottom: solid 1px grey;
+    height: 500px;
+    margin-left: 500px;
+    width: 850px;
+}
+
+.text {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.text_2 {
+    font-size: 20px;
+}
+
+.text_all {
+    position: relative;
+    top: 90px;
+    left: 30px;
+}
+
+.point {
+    width: 400px;
+    height: 542px;
+    float: right;
+    position: relative;
+    bottom: 490px;
+}
+
+.snap {
+    width: 150px;
+    height: 60px;
+    border: solid 2px grey;
+}
+
+.start {
+    color: grey;
+    text-align: center;
+}
+
+.header_2 {
+    border-bottom: solid 1px grey;
+    margin-left: 500px;
+    height: 300px;
+    width: 850px;
+}
+
+.text_all_2 {
+    position: relative;
+    left: 400px;
+    top: 30px;
+}
+
+.snap_2 {
+    width: 150px;
+    height: 60px;
+    border: solid 2px grey;
+}
+
+.more {
+    color: grey;
+    text-align: center;
+}
+
+.point_2 {
+    width: 340px;
+    height: 335px;
+    position: relative;
+    bottom: 275px;
+}
+
+.ton_header {
+    border-bottom: solid 1px grey;
+    margin-left: 500px;
+    height: 300px;
+    width: 850px;
+}
+
+.text_all_3 {
+    position: relative;
+    top: 30px;
+}
+
+.snap_3 {
+    width: 150px;
+    height: 60px;
+    border: solid 2px grey;
+}
+
+.more_2 {
+    color: grey;
+    text-align: center;
+}
+
+.point_3 {
+    float: right;
+    width: 340px;
+    height: 335px;
+    position: relative;
+    bottom: 275px;
+}
+
+.gallery {
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    left: 900px
+}
+
+.point_4 {
+    position: relative;
+    left: 500px;
+    width: 850px;
+    height: 200px;
+}
+
+.Features {
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    left: 900px
+}
+
+.one {
+    position: relative;
+    left: 500px;
+}
+
+.point_5 {
+    position: relative;
+    left: 50px;
+}

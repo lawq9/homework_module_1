@@ -1,0 +1,31 @@
+.named{
+    font-size:20px;
+    position: relative;
+    left:50px;
+    top:1600px;
+}
+    .advice>img{
+    width:400px;
+    height:300px;
+    position: relative;
+    top:1630px;
+    left:50px;
+}
+    
+    .advice>p{
+    border:solid 1px orangered;
+    background-color:orangered;
+    width:150px;
+    height:60px;
+    position:relative;
+    top:1500px;
+    left:80px;
+    border-radius:10px;
+}
+    .advice>p>a{
+    color:white;
+    text-decoration:none;
+    position: relative;
+    top:20px;
+    left:40px;
+}

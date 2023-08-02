@@ -1,0 +1,36 @@
+/* form{
+display: flex;
+flex-direction: column;
+width: 1000px;
+gap: 10px;
+background-color: aqua;
+}
+.fat{
+margin:5px;
+float: right ;
+position: relative;
+bottom:250px;
+right:70px;
+} */
+.container{
+width: 760px;
+margin:0;
+display: grid;
+grid-template-columns: 300px 150px 200px;
+grid-template-rows: 300px 150px 200px;
+gap: 10px;
+}
+.item{
+background-color: burlywood;
+font-size: 30px;
+}
+.order-self{
+order: 4;
+background-color: aqua;
+}
+.grid-area{
+grid-area: span;
+}
+.first{
+    grid-column: 1/6;
+}

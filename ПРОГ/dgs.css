@@ -1,0 +1,19 @@
+body{
+font: size 1rem;
+}
+.test{
+    max-width:500px;
+    height:500px;
+    background-color: lightblue;
+    overflow:hidden;
+    border-width:30px;
+    border-color:brown;
+    border-style:solid ;
+    border-radius:150px/300px;
+    cursor:pointer;
+}
+.test:hover{
+    border-color:rgb(26, 58, 133);
+    border-style:solid ;
+}
+    

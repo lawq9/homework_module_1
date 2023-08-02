@@ -1,0 +1,164 @@
+.point {
+    border:solid 1px white;
+    width: 100%;
+    height:500px;
+    background-image: url("https://e.radikal.host/2023/07/10/POPYTKA-3.jpg");
+    background-size: cover;
+}
+    .logo{
+    text-align:left;
+    position: relative;
+    top:150px;
+    left:60px;
+    color:white;
+}
+    .order{
+    height:60px;
+    width:200px;
+    border:solid 1px orangered;
+    background-color:orangered;
+    position: relative;
+    top:130px;
+    left:60px;
+    border-radius:10px;
+}
+    .order>a{
+    text-decoration:none;
+    color:white;
+    position: relative;
+    left:70px;
+    top:20px;
+    font-weight:100px;
+}
+    .order:hover{
+    background-color:rgb(80, 24, 3);
+    border:solid 1px rgb(80, 24, 3);
+}
+    .advantages{
+    position: relative;
+    left:50px;
+}
+    .menu_point{
+    position:relative;
+    left:50px;
+    width:605px;
+    height:252px;
+}
+    .icon>img{
+    width:605px;
+    height:252px;
+    transition:1s;
+    cursor: pointer;
+    border-radius:10px;
+    border:solid 1px grey;
+}
+    .icon>img:hover{
+    border-radius:10px;
+    border:solid 2px orangered;
+    transform:scale(1.1);
+} 
+    .icon>a{
+    text-decoration:none;
+    color:black;
+    font-size:10px;
+    position: relative;
+    bottom:140px;
+    left:7px;
+}
+    .icon>a:hover{
+    color: black;
+    text-decoration:underline;
+}
+    .icon>span{
+    text-decoration:none;
+    color:grey;
+    font-size:8px;
+    display:flex;
+    position:relative;
+    bottom:80px;
+    cursor: pointer;
+    position: relative;
+    left:7px;
+} 
+    .icon_2>img{
+    width:605px;
+    height:252px;
+    border-radius:10px;
+    position:relative;
+    left:650px;
+    bottom:908px;
+    border:solid 1px grey;
+    transition:1s;
+    cursor: pointer;
+}
+     .icon_2>img:hover{
+    border-radius:10px;
+} 
+    .icon_2>a{
+    text-decoration:none;
+    color:black;
+    font-size:10px;
+    position: relative;
+    bottom:140px;
+    left:660px;
+    bottom:1040px;
+    z-index:20;
+}
+    .icon_2>a:hover{
+    color: black;
+    text-decoration:underline;
+}
+    .icon_2>p{
+    text-decoration:none;
+    color:grey;
+    font-size:8px;
+    position:relative;
+    bottom:80px;
+    cursor: pointer;
+    float: right;
+    left:115px;
+    z-index:20;
+    bottom:980px;
+} 
+    .icon_2>img:hover{
+    border-radius:10px;
+    border:solid 2px orangered;
+    transform:scale(1.1);
+} 
+.point_2{
+    position: relative;
+    top:700px;
+    border:solid 1px white;
+    width: 100%;
+    height:475px;
+    background-image: url("https://e.radikal.host/2023/07/12/Mask-Group.png");
+    background-size: cover;
+}
+    .logo_2{
+    text-align:left;
+    position: relative;
+    top:90px;
+    left:30px;
+    color:white;
+}
+.write{
+height:60px;
+width:200px;
+border: solid 1px orangered;
+background-color: orangered;
+position: relative;
+top:120px;
+left:30px;
+border-radius:10px;
+}
+.write>a{
+color:white;
+text-decoration:none;
+position: relative;
+left:60px;
+top:20px;
+}
+.write:hover{
+background-color:rgb(80, 24, 3);
+border: solid 1px rgb(80, 24, 3);
+}

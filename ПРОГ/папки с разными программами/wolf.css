@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700;900&family=Roboto:ital,wght@0,400;0,900;1,300;1,700&display=swap');
+body{
+font-family: 'Roboto', sans-serif;
+padding:0;
+margin:0;
+border-color:#fff;
+color: #111;
+font-size:14px;
+width:1544px;
+}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+font-family: 'Montserrat', sans-serif;
+}
+.top_header{
+height:44px;
+width:1500px;
+background-color: #2b3648;
+color:white;
+padding-top:20px;
+padding-left:40px;
+}
+.rose{
+padding-left:10px;
+}
+.man{
+padding-left:10px;
+color:orangered;
+}
+.girl{
+padding-left:10px;
+}
+.main_menu{
+height:116px;
+border-bottom:solid 1px #777;
+}
+.nine{
+color:orangered;
+font-size:40px;
+position:relative;
+top:30px;
+left:40px;
+}
+.ico{
+display:inline;
+}
+.gamma{
+position:relative;
+left:270px;
+word-spacing:20px;
+}
+.flover{
+cursor: pointer;
+}
+.flover:hover{
+color:orangered;
+text-decoration:underline;
+}
+.reset{
+word-spacing:5px;
+cursor:pointer;
+}
+.reset:hover{
+color:orangered;
+text-decoration:underline;
+}
+.das{
+cursor:pointer;
+}
+.das:hover{
+color:orangered;
+text-decoration:underline;
+}
+.word{
+word-spacing:5px;
+cursor: pointer;
+}
+.word:hover{
+color:orangered;
+text-decoration:underline;
+}
+.post{
+cursor:pointer;
+}
+.post:hover{
+color:orangered;
+text-decoration:underline;
+}
+.false{
+cursor:pointer;
+}
+.false:hover{
+color:orangered;
+text-decoration:underline;
+}
+.true{
+cursor:pointer;
+}
+.true:hover{
+color:orangered;
+text-decoration:underline;
+}
+.container{
+width:1200px;
+margin:0 auto;
+}
+.sol{
+border:solid 1px #2b3648;
+width:203px;
+height:43px;
+background-color: #2b3648;
+position: relative;
+left:660px;
+bottom:30px;
+border-radius:10px;
+cursor: pointer;
+}
+.sol:hover{
+background-color: #111;
+}
+.rite{
+color:white;
+font-size:15px;
+word-spacing:5px;
+margin-top:10px;
+}
+.dont{
+color:#777;
+word-spacing:3px;
+position:relative;
+left:900px;
+bottom:77px;
+}
+.wonderful{
+color:orangered;
+font-size:6px;
+position:relative;
+left:105px;
+bottom:12px;
+}
+.face{
+display:inline;
+}
+.kart{
+position: relative;
+bottom:87px;
+left:900px;
+word-spacing:5px;
+}
+.name{
+color: #777;
+position: relative;
+left:1050px;
+bottom:136px;
+}
+.nomer{
+color:black;
+position: relative;
+left:1060px;
+bottom:130px;
+}
+.rew{
+position: relative;
+left:1190px;
+bottom:146px;
+cursor:pointer;
+}
+.rew:hover{
+color:blueviolet;
+}
+.rad{
+position:absolute;
+bottom:40px;
+}
